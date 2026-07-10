@@ -11,9 +11,9 @@ I'm a final-year AI & Data Science student focused on building intelligent syste
 
 ## 🧠 What I Work On
 
-- 🔬 **Machine Learning** — Designing and training models that solve real-world problems
-- 🗣️ **Large Language Models** — Fine-tuning, prompting, and deploying LLM-powered applications
-- 🤖 **Agentic AI** — Building autonomous agents that reason, plan, and act
+🔬 **Machine Learning** — Design and train machine learning models that solve real-world problems, including crop disease detection and phishing URL classification.
+
+🗣️ **Large Language Models (LLMs)** — Build RAG-powered AI applications with LangChain, FAISS, and Groq while working across prompt engineering, fine-tuning, and production deployment.
 
 <br>
 
