@@ -2,11 +2,11 @@
 
 # Hi, I'm Hazim 👋
 
+</div>
+
 ### AI & Data Science Engineer
 
 I'm a final-year AI & Data Science student focused on building intelligent systems at the intersection of **Machine Learning**, **Large Language Models**, and **Agentic AI**. I care about turning research-grade ideas into working, deployable systems — models that don't just predict, but act.
-
-</div>
 
 <br>
 
@@ -54,63 +54,40 @@ I'm a final-year AI & Data Science student focused on building intelligent syste
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [CropPilot](https://github.com/hazimu55-cmd/CropPilot)
-AI-driven crop recommendation system that helps farmers make data-backed planting decisions.
+### 🏬 [SILO](https://github.com/hazimu55-cmd/SILO)
+AI-powered, microservices-based analytics platform for dark store operations — demand forecasting, route optimization, anomaly detection, and an LLM chatbot with MCP integration.
 
-`Python`
+`Python` `FastAPI` `React` `Docker`
 
 </td>
+<td width="50%" valign="top">
+
+### 🌾 [CropPilot](https://github.com/hazimu55-cmd/CropPilot)
+AI-powered crop disease diagnosis and treatment advisor — identifies plant diseases from leaf photos and generates treatment plans sourced from official NIPHM government documents.
+
+`Python` `LangChain` `FAISS` `Groq`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [Phishwall](https://github.com/hazimu55-cmd/Phishwall)
-Phishing detection engine powered by machine learning to flag malicious sites and messages.
+Machine learning–based phishing URL detector that engineers 14 structural, symbolic, and behavioral features to classify URLs as safe or malicious in real time.
 
-`Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔢 [Digit-classifier](https://github.com/hazimu55-cmd/Digit-classifier)
-Neural network built for handwritten digit recognition from image data.
-
-`Python`
+`Python` `Scikit-learn` `Streamlit`
 
 </td>
-<td width="50%" valign="top">
-
-### 📦 [SILO](https://github.com/hazimu55-cmd/SILO)
-A data pipeline and storage system designed for reliable, scalable data flow.
-
-`Python`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚗 [DriveX](https://github.com/hazimu55-cmd/DriveX)
-An intelligent driving assistant built to support smarter, safer decisions on the road.
+A Java console-based car rental system with role-based login, real-time availability search, automated pricing, and full booking lifecycle management.
 
 `Java`
 
 </td>
-<td width="50%" valign="top">
-
-<br>
-
-</td>
 </tr>
 </table>
-
-<br>
-
-## 📚 Currently Learning
-
-🔧 **LangChain** — Building production-grade LLM pipelines and retrieval-augmented generation systems
-
-🤖 **MCP (Model Context Protocol)** — Integrating AI agents with external tools and data sources for real-world agentic workflows
 
 <br>
 
