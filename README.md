@@ -4,7 +4,6 @@
 
 </div>
 
-### AI & Data Science Engineer
 
 I'm a final-year AI & Data Science student focused on building intelligent systems at the intersection of **Machine Learning**, **Large Language Models**, and **Agentic AI**. I care about turning research-grade ideas into working, deployable systems — models that don't just predict, but act.
 
