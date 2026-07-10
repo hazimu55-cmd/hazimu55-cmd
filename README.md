@@ -2,6 +2,7 @@
 
 # Hi, I'm Hazim 👋
 
+<br>
 </div>
 
 
@@ -11,9 +12,9 @@ I'm a final-year AI & Data Science student focused on building intelligent syste
 
 ## 🧠 What I Work On
 
-🔬 **Machine Learning** — Design and train machine learning models that solve real-world problems, including crop disease detection and phishing URL classification.
+🔬 **Machine Learning** — Design and train machine learning models that solve real world problems, including crop disease detection and phishing URL classification.
 
-🗣️ **Large Language Models (LLMs)** — Build RAG-powered AI applications with LangChain, FAISS, and Groq while working across prompt engineering, fine-tuning, and production deployment.
+🗣️ **Large Language Models (LLMs)** — Build RAG-powered AI applications with LangChain, FAISS and Groq while working across prompt engineering, fine-tuning and production deployment.
 
 <br>
 
