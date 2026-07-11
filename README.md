@@ -6,7 +6,7 @@
 </div>
 
 
-I'm a final-year AI & Data Science student focused on building intelligent systems at the intersection of **Machine Learning**, **Large Language Models**, and **Agentic AI**. I care about turning research-grade ideas into working, deployable systems — models that don't just predict, but act.
+I'm a final year AI & Data Science student focused on building intelligent systems at the intersection of **Machine Learning**, **Large Language Models**, and **Agentic AI**. I care about turning research grade ideas into working, deployable systems.
 
 <br>
 
@@ -14,7 +14,7 @@ I'm a final-year AI & Data Science student focused on building intelligent syste
 
 🔬 **Machine Learning** — Design and train machine learning models that solve real world problems, including crop disease detection and phishing URL classification.
 
-🗣️ **Large Language Models (LLMs)** — Build RAG-powered AI applications with LangChain, FAISS and Groq while working across prompt engineering, fine-tuning and production deployment.
+🗣️ **Large Language Models (LLMs)** — Build RAG powered AI applications with LangChain, FAISS and Groq while working across prompt engineering, fine-tuning and production deployment.
 
 <br>
 
@@ -55,7 +55,7 @@ I'm a final-year AI & Data Science student focused on building intelligent syste
 <td width="50%" valign="top">
 
 ### 🏬 [SILO](https://github.com/hazimu55-cmd/SILO)
-AI-powered, microservices-based analytics platform for dark store operations — demand forecasting, route optimization, anomaly detection, and an LLM chatbot with MCP integration.
+Built an AI-powered analytics platform for dark store operations using a microservices architecture. It helps with demand forecasting, route optimization, anomaly detection and includes an LLM chatbot integrated with MCP.
 
 `Python` `FastAPI` `React` `Docker`
 
@@ -63,7 +63,7 @@ AI-powered, microservices-based analytics platform for dark store operations —
 <td width="50%" valign="top">
 
 ### 🌾 [CropPilot](https://github.com/hazimu55-cmd/CropPilot)
-AI-powered crop disease diagnosis and treatment advisor — identifies plant diseases from leaf photos and generates treatment plans sourced from official NIPHM government documents.
+Built an AI powered crop disease diagnosis platform that identifies plant diseases from leaf images and provides treatment recommendations based on official NIPHM government documents.
 
 `Python` `LangChain` `FAISS` `Groq`
 
@@ -73,7 +73,7 @@ AI-powered crop disease diagnosis and treatment advisor — identifies plant dis
 <td width="50%" valign="top">
 
 ### 🛡️ [Phishwall](https://github.com/hazimu55-cmd/Phishwall)
-Machine learning–based phishing URL detector that engineers 14 structural, symbolic, and behavioral features to classify URLs as safe or malicious in real time.
+A machine learning application that extracts 14 URL features to classify links as safe or malicious in real time.
 
 `Python` `Scikit-learn` `Streamlit`
 
@@ -81,7 +81,7 @@ Machine learning–based phishing URL detector that engineers 14 structural, sym
 <td width="50%" valign="top">
 
 ### 🚗 [DriveX](https://github.com/hazimu55-cmd/DriveX)
-A Java console-based car rental system with role-based login, real-time availability search, automated pricing, and full booking lifecycle management.
+A Java console application for managing car rentals with role-based login, vehicle availability search, automated pricing, and booking management.
 
 `Java`
 
@@ -93,7 +93,7 @@ A Java console-based car rental system with role-based login, real-time availabi
 
 ## 💼 Open to Opportunities
 
-I'm actively seeking **internships and entry-level roles** in:
+I'm actively seeking **internships and entry level roles** in:
 
 - Machine Learning Engineering
 - AI / LLM Application Development
