@@ -55,7 +55,7 @@ I'm a final year AI & Data Science student focused on building intelligent syste
 <td width="50%" valign="top">
 
 ### 🏬 [SILO](https://github.com/hazimu55-cmd/SILO)
-Built an AI-powered analytics platform for dark store operations using a microservices architecture. It helps with demand forecasting, route optimization, anomaly detection and includes an LLM chatbot integrated with MCP.
+Built an AI powered analytics platform for dark store operations using a microservices architecture. It helps with demand forecasting, route optimization, anomaly detection and includes an LLM chatbot integrated with MCP.
 
 `Python` `FastAPI` `React` `Docker`
 
